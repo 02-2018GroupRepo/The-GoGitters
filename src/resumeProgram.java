@@ -48,7 +48,6 @@ public class resumeProgram {
 
         public static void nadarioResume(){
             System.out.printf("Name: NaDario M. Seays %n" +
-                    "------------------------------------- %n" +
                     "Education: American Intercontinental University %n" +
                     "   B.A. in Information Technology - The Specialization of  Software Development and analysis %n %n" +
                     "Skills: Java Development %n %n" +
