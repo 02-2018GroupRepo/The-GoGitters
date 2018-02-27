@@ -28,6 +28,7 @@ public class resumeProgram {
             System.out.println("\tSkills: Microsoft Office, Visio, MATLAB, SolidWorks, Visual Basic in Excel, Arduino C/C++");
             System.out.println("\tExperience: Process Development Engineering Intern, RTI Surgical, Feb. 2016 - Feb. 2017");
             System.out.println("\t This is a change Noelle has made.");
+            System.out.println("\t And this is Noelle's second change.");
             System.out.println();
         }
 
