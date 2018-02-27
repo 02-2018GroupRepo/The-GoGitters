@@ -4,7 +4,7 @@ public class resumeProgram {
             System.out.println(" -- The Go Gitters!!! -- ");
             System.out.println();
 
-            // Resume Functions
+            // Resume Function List
             christianResume();
             Noelle();
             nadarioResume();
