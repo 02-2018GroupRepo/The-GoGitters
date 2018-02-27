@@ -27,6 +27,8 @@ public class resumeProgram {
             System.out.println("\tEducation: Bachelor of Science in Biological Engineering, University of Florida");
             System.out.println("\tSkills: Microsoft Office, Visio, MATLAB, SolidWorks, Visual Basic in Excel, Arduino C/C++");
             System.out.println("\tExperience: Process Development Engineering Intern, RTI Surgical, Feb. 2016 - Feb. 2017");
+            System.out.println("\t This is a change Noelle has made.");
+            System.out.println("\t And this is Noelle's second change.");
             System.out.println();
         }
 
@@ -35,10 +37,12 @@ public class resumeProgram {
             String skills = "\tSkills: Java, HTML, and CSS";
             String education = "\tEducation: Computer Science Major at the University of North Georgia";
             String experience = "\tExperience: Shift Leader at a Sonic Drive-In (6 years)";
+            String change = "\t Testing adding code to the repo";
             System.out.println(name);
             System.out.println(skills);
             System.out.println(education);
             System.out.println(experience);
+            System.out.println(change);
             System.out.println();
         }
 
