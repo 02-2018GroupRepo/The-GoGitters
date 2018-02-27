@@ -35,10 +35,12 @@ public class resumeProgram {
             String skills = "\tSkills: Java, HTML, and CSS";
             String education = "\tEducation: Computer Science Major at the University of North Georgia";
             String experience = "\tExperience: Shift Leader at a Sonic Drive-In (6 years)";
+            String change = "\t Testing adding code to the repo"
             System.out.println(name);
             System.out.println(skills);
             System.out.println(education);
             System.out.println(experience);
+            System.out.println(change);
             System.out.println();
         }
 
