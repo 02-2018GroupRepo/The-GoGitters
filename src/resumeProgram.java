@@ -63,7 +63,7 @@ public class ResumeProgram {
         );
 
         ResumeProgram resumeSeven = new ResumeProgram(
-                "Mayurbhai Maisuria",
+                "Mayur Maisuria",
                 "Programming/Scripting Languages : Java, Python, C, Swift3, JavaScript, SQL",
                 "Georgia Institute of Technology %n     Bachelor of Science in Computer Science - GPA 3.02",
                 "Tutor and Student Assistance at Georgia State University %n      - Taught students CalculusII, Java, HTML5, and CSS3 Projects %n      - Implemented Web, iOS, CPU, Info Viz System, and MULE Game application %n"
