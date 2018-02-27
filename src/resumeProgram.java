@@ -1,18 +1,18 @@
 public class ResumeProgram {
 
-    String name;
-    String skills;
-    String education;
-    String experience;
+    private String name;
+    private String skills;
+    private String education;
+    private String experience;
 
-    ResumeProgram(String name, String skills, String education, String experience) {
+    private ResumeProgram(String name, String skills, String education, String experience) {
         this.name = name;
         this.skills = skills;
         this.education = education;
         this.experience = experience;
     }
 
-    void catagories() {
+    private void categories() {
         System.out.printf("name: " + this.name + "%n   skills: %n     " + this.skills + "%n   education: %n     " + this.education + " %n   experience: %n     " + this.experience);
         System.out.println();
     }
@@ -69,13 +69,13 @@ public class ResumeProgram {
                 "Tutor and Student Assistance at Georgia State University %n      - Taught students CalculusII, Java, HTML5, and CSS3 Projects %n      - Implemented Web, iOS, CPU, Info Viz System, and MULE Game application %n"
         );
 
-        resumeOne.catagories();
-        resumeTwo.catagories();
-        resumeThree.catagories();
-        resumeFour.catagories();
-        resumeFive.catagories();
-        resumeSix.catagories();
-        resumeSeven.catagories();
+        resumeOne.categories();
+        resumeTwo.categories();
+        resumeThree.categories();
+        resumeFour.categories();
+        resumeFive.categories();
+        resumeSix.categories();
+        resumeSeven.categories();
 
     }
 
