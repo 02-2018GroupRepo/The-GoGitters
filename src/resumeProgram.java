@@ -18,7 +18,7 @@ public class resumeProgram {
             System.out.println("Christian Walker");
             System.out.println("\tEducation: Bachelors in Computer Engineer from Clemson University");
             System.out.println("\tskill: JavaScript, HTML/CSS, React, C, Python");
-            System.out.println("\tExperience: Shift Manager at Wendys");
+            System.out.println("\t");
             System.out.println();
         }
 
